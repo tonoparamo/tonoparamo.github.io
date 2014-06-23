@@ -307,76 +307,55 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #eee4da;
-    text-align: center;
-    font-weight: bold;
-    z-index: 10;
-    font-size: 55px; }
+    background-position: center;
+    background-size: 90px;
+    text-align: left;
+    font-size: .000000000000001px;}
+
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/2.jpg'); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/4.jpg'); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/8.jpg'); }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/16.jpg'); }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/32.jpg'); }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/64.jpg'); }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/128.jpg'); }
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/256.jpg'); }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
-    background: #edc850;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-512 .tile-inner {
-        font-size: 25px; } }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/512.jpg'); }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
-    font-size: 35px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-1024 .tile-inner {
-        font-size: 15px; } }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/1024.jpg'); }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 35px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-2048 .tile-inner {
-        font-size: 15px; } }
-  .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32;
-    font-size: 30px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-super .tile-inner {
-        font-size: 10px; } }
+    background-position: center;
+    background-size: 105px;
+    background-image: url('../style/tile-sets/2048.jpg'); }
 
 @-webkit-keyframes appear {
   0% {
@@ -700,7 +679,7 @@ hr {
     transform: translate(202px, 202px); }
 
   .tile .tile-inner {
-    font-size: 35px; }
+    font-size: .000000000000001px; }
 
   .game-message p {
     font-size: 30px !important;
