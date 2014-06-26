@@ -8,7 +8,7 @@ html, body {
   font-size: 18px; }
 
 body {
-  margin: 80px 0; }
+  margin: 60p 0; }
 
 .heading:after {
   content: "";
@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 60p;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -314,47 +314,47 @@ hr {
 
   .tile.tile-2 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/2.jpg'); }
   .tile.tile-4 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/4.jpg'); }
   .tile.tile-8 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/8.jpg'); }
   .tile.tile-16 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/16.jpg'); }
   .tile.tile-32 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/32.jpg'); }
   .tile.tile-64 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/64.jpg'); }
   .tile.tile-128 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/128.jpg'); }
   .tile.tile-256 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/256.jpg'); }
   .tile.tile-512 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/512.jpg'); }
   .tile.tile-1024 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/1024.jpg'); }
   .tile.tile-2048 .tile-inner {
     background-position: center;
-    background-size: 80px;
+    background-size: 60px;
     background-image: url('../style/tile-sets/2048.jpg'); }
 
 @-webkit-keyframes appear {
@@ -494,7 +494,7 @@ hr {
     margin-top: 15px; }
 
   .container {
-    width: 280px;
+    width: 260px;
     margin: 0 auto; }
 
   .score-container, .best-container {
@@ -532,8 +532,8 @@ hr {
     touch-action: none;
     background: #bbada0;
     border-radius: 6px;
-    width: 280px;
-    height: 280px;
+    width: 260px;
+    height: 260px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
