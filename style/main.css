@@ -314,47 +314,47 @@ hr {
 
   .tile.tile-2 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/2.jpg'); }
   .tile.tile-4 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/4.jpg'); }
   .tile.tile-8 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/8.jpg'); }
   .tile.tile-16 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/16.jpg'); }
   .tile.tile-32 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/32.jpg'); }
   .tile.tile-64 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/64.jpg'); }
   .tile.tile-128 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/128.jpg'); }
   .tile.tile-256 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/256.jpg'); }
   .tile.tile-512 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/512.jpg'); }
   .tile.tile-1024 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/1024.jpg'); }
   .tile.tile-2048 .tile-inner {
     background-position: center;
-    background-size: 105px;
+    background-size: 80px;
     background-image: url('../style/tile-sets/2048.jpg'); }
 
 @-webkit-keyframes appear {
